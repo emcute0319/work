@@ -4,5 +4,5 @@
 cp -rvf ~/bin ~/proj/github
 
 git add .
-git commit --amend
-git push -u origin master
+git commit
+git push origin master -f
