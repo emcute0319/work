@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd ~/proj/github
 
 cp -rvf ~/bin ~/proj/github
 

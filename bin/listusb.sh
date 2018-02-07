@@ -52,4 +52,7 @@ case $ASK in
 	*) echo "[INFO]: No usb flash";;
 esac
 
-echo "[INFO]: done ..."
+echo "[INFO]: Sync..."
+sudo sync;sudo sync
+
+echo "[INFO]: Done ..."
