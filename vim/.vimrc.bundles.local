@@ -1,0 +1,20 @@
+" cscope {{{
+    Bundle "vim-scripts/cscope.vim"
+" }}}
+
+
+
+" oh-my-vim {{{
+    "Bundle "mintisan/oh-my-vim"
+    "Bundle 'simplyzhao/cscope_maps.vim'
+" }}}
+"
+
+" jshint {{{
+    Bundle "wookiehangover/jshint.vim"
+" }}}
+
+
+" cscope_maps {{{
+"    Bundle "chazy/cscope_maps"
+" }}}
